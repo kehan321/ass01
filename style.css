@@ -1,0 +1,49 @@
+/* .a{
+    box-sizing: border-box;
+
+border: 3px solid blue;
+
+}
+
+
+@media only screen and (min-width: 768px){
+
+.
+
+
+} */
+
+/* 
+.home-items:hover {
+
+color: blu;
+}
+.home-items{
+    color: black;
+}
+
+.btn{
+margin-right: 100%;
+} */
+
+
+.col{
+
+    border: 2px solid green;
+}
+.in-email{
+
+    border: none;
+    border-radius: none;
+}
+
+.s{
+
+    border: 1px solid red;
+}
+
+
+.n4:hover{
+
+    color: blue;
+}
